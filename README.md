@@ -5,4 +5,6 @@ Unlike the 2-player board game, Battleship Solitaire shows the number of ship pa
 
 <img width="166" alt="Screen Shot 2023-06-12 at 10 53 20 PM" src="https://github.com/blipblopblop/battleship/assets/62577020/bf335439-afa8-446f-9ea4-0a4cdfed9f0f">
 
+appears as
+
 <img width="51" alt="Screen Shot 2023-06-12 at 10 53 29 PM" src="https://github.com/blipblopblop/battleship/assets/62577020/438bd389-f915-4b24-9248-40b01bbb11aa">
